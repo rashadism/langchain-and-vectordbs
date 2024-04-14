@@ -6,3 +6,4 @@ tiktoken
 selenium==4.15.2
 google-api-python-client
 huggingface_hub
+pypdf
