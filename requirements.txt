@@ -1,0 +1,7 @@
+ipykernel
+langchain==0.0.208
+deeplake
+openai==0.27.8
+tiktoken
+selenium==4.15.2
+google-api-python-client
